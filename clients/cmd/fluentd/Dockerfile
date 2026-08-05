@@ -1,4 +1,4 @@
-FROM ruby:4.0.6@sha256:d9a5d26be31a40fb043069f816ba39139c1f38758aea530341eb7e2c153e4ab4 AS build
+FROM ruby:4.0.6@sha256:f5d7d1452657d9b7b1358c56ff42ffb2de808db14841ebadb3e205a397296a1c AS build
 
 ENV DEBIAN_FRONTEND=noninteractive
 
